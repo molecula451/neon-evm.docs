@@ -23,7 +23,7 @@ The MetaMask wallet must be installed on your device.
   * Solana works in test mode and the proxy interacts with it through the EVM-loader.
 
 #### Step 1
-Open your MetaMask wallet and in the upper-right corner, click the red apple view element.  
+Open your MetaMask wallet and in the upper-right corner, click the identical.  
 Click `Create Account` in the dropdown menu and add one more account to interact with the network configured.  
 
 #### Step 2
@@ -64,7 +64,7 @@ you need to run the daemon first:
 $ sudo systemctl start docker
 ```
 
-#### Step 2
+### Step 2
 Start the proxy and connect it to the Docker network:
 
 ```sh

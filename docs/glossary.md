@@ -25,6 +25,11 @@ The block log is an append-only log of blocks written to disk and contains all t
 
 ---  
 
+### BPF
+The Berkeley Packet Filter (BPF) is a technology used in computer operating systems to analyze network traffic. It provides a raw interface to data link layers, permitting raw link-layer packets to be sent and received.  
+
+---  
+
 ### Container
 An object created using a Docker image and containing all the necessary components for the operation of the application. The container is a secure platform for the operation of the application.  
 
@@ -151,5 +156,10 @@ Wallets are clients that store keys that may or may not be associated with the p
 
 ---  
 
+### Uniswap
+Uniswap is a decentralized exchange. Liquidity providers can earn fees by providing the required tokens or ETH for both sides of a trade. It is widely used and therefore has one of the highest liquidities for a very wide range of tokens.  
+
+---  
+
 ### USDT token
-USDT (United States Department of the Treasury) is the ticker symbol for the Tether stablecoin cryptocurrency.  
+USDT is the ticker symbol for the [Tether](https://en.wikipedia.org/wiki/Tether_(cryptocurrency)) stablecoin cryptocurrency.  
